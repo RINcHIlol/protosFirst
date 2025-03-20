@@ -4,7 +4,7 @@
 // - protoc             v5.29.3
 // source: resourceService/resourceService.proto
 
-package tuzov_sso_v1_resourceServicev1
+package tuzov_sso_v1_resourceService
 
 import (
 	context "context"

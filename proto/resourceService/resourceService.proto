@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package resource;
 
-option go_package = "tuzov.sso.v1.resourceServicev1";
+option go_package = "tuzov.sso.v1.resourceService";
 
 service Resource{
   rpc AccessResource(AccessResourceRequest) returns (AccessResourceResponse);
